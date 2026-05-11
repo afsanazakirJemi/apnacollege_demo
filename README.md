@@ -1,4 +1,4 @@
 # apnacollege_demo
 this is my 3rd git repository.
 <br>
-author-jemi 9(apna college)
+author-jemi (apna college)
